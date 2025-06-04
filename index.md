@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Anastasia Newheart's CV
+
 ---
